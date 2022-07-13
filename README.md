@@ -44,7 +44,8 @@
 
 | Endpoints | Description |
 |:-:|:-:|
-| [/](https://apcobed.co/) | User Login or Register |
+| [/](https://apcobed.co/) | User Login |
+| [/register](https://apcobed.co/register) | User Register |
 | [/profile](https://apcobed.co/profile) | Edit your Profile |
 | [/dashboard](https://apcobed.co/dashboard)  | User Dashboard |
 | [/leads](https://apcobed.co/leads) | Covid Emergency Supplies |
